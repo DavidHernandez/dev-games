@@ -1,0 +1,19 @@
+{
+  noticias: [
+    {
+      "titulo": "Noticia nueva",
+      "description": "descripcion",
+      "link": "http://google.com"
+    },
+    {
+      titulo: "Noticia uno",
+      description: "descripcion",
+      link: "http://google.com"
+    },
+    {
+      titulo: "Noticia dos",
+      description: "descripcion",
+      link: "http://google.com"
+    }
+  ]
+};
